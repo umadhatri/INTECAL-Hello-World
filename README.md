@@ -1,4 +1,4 @@
-# INTECAL-Hello-World
+# INTERCAL-Hello-World
 It's a repo for the INTERCAL code for Hello World
 ## What is INTERCAL?  
 It is a mind-blowing language that makes you question your sanity! Don't take my world for it, ask the creator(s) of INTERCAL  
